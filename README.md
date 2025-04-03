@@ -1,2 +1,1 @@
-# Machine_Learning_Courses
-HW of NEU ML courses
+# Machine Learning Courses
