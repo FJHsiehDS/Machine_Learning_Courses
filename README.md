@@ -5,6 +5,19 @@ This repository contains a series of notebooks exploring core machine learning a
 ---
 ## Unsupervised ML:
 
+## Key Concepts Summary
+
+| Category | Core Concepts |
+|-----------|----------------|
+| **Clustering** | K-means, EM, GMM, Purity, Gini Index, Silhouette Score |
+| **Dimensionality Reduction** | PCA, Kernel PCA, t-SNE, UMAP |
+| **Density Methods** | DBSCAN, hierarchical clustering, linkage metrics |
+| **Probabilistic Models** | Mixture models, LDA, Gibbs sampling |
+| **Neural Models** | Word2Vec, PyTorch embeddings, negative sampling |
+| **Graph Models** | Modularity, community detection, network layout |
+
+---
+
 ### **HW2A - Clustering: K-Means and EM for Mixture Models**
 - Implemented Expectation–Maximization (EM) for :
   - **Hard & soft K-means** algorithms  
@@ -99,15 +112,4 @@ This repository contains a series of notebooks exploring core machine learning a
 
 ---
 
-## Key Concepts Summary
 
-| Category | Core Concepts |
-|-----------|----------------|
-| **Clustering** | K-means, EM, GMM, Purity, Gini Index, Silhouette Score |
-| **Dimensionality Reduction** | PCA, Kernel PCA, t-SNE, UMAP |
-| **Density Methods** | DBSCAN, hierarchical clustering, linkage metrics |
-| **Probabilistic Models** | Mixture models, LDA, Gibbs sampling |
-| **Neural Models** | Word2Vec, PyTorch embeddings, negative sampling |
-| **Graph Models** | Modularity, community detection, network layout |
-
----
